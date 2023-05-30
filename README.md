@@ -1,1 +1,1 @@
-My first readme
+Alpha is gradually learning 
